@@ -1,0 +1,20 @@
+
+.outfit-font {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.black-color-website{
+  background-color:#0E0E0E !important;
+  color: white;
+}
+.purple-text{
+  color: #9074F7;
+}
+
+hr{
+  border-color: #9074F7 !important;
+  border: 2px solid !important;
+}
