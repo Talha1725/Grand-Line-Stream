@@ -22,7 +22,7 @@ function NavbarLocal() {
               <Nav.Link href="#pricing">Manga</Nav.Link>
               <Nav.Link href="#pricing">Comics</Nav.Link>
               <Nav.Link href="#pricing">Explore</Nav.Link>
-              <Nav.Link href="#deets">Shop</Nav.Link>
+              <Nav.Link href="#deets">Shoop</Nav.Link>
             </Nav>
             <Nav>
               <Button
